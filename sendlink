@@ -1,0 +1,23 @@
+[33mTo request a particular subdomain, you first need to register your SSH public key.
+To register, visit one the addresses below to login with your Google or GitHub account.
+After registering, you'll be able to request your subdomain the next time you connect
+to Serveo.
+
+[0mGoogle: https://serveo.net/verify/google?fp=SHA256%3A%2B8lvMRvWJZGVL0HRyexAOQfMQkVTRhZQu5T%2FrO%2BOIs8
+GitHub: https://serveo.net/verify/github?fp=SHA256%3A%2B8lvMRvWJZGVL0HRyexAOQfMQkVTRhZQu5T%2FrO%2BOIs8
+
+[32mForwarding HTTP traffic from https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net
+[0mHTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/index2.html
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/index2.html
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/images/favicon.ico
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/index2.html
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
+HTTP request from 106.216.237.74 to https://e4784dd27cb40e0d39605700ba0a25f4.serveo.net/post.php
