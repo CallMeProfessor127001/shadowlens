@@ -8,3 +8,5 @@ sudo apt-get install figlet
 sudo apt-get install cowsay
 sudo apt-get install lolcat
 sudo apt-get install toilet
+sudo apt-get install php
+sudo apt-get install expect
